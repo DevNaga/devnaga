@@ -1,4 +1,4 @@
-![Dev's github stats](https://github-readme-stats.vercel.app/api?username=devnaga&count_private=true)
+![Dev's github stats](https://github-readme-stats.vercel.app/api?username=devnaga&count_private=true&show_icons=true)
 
 ![Dev's github stats](https://github-readme-stats.vercel.app/api?username=devnaga&show_icons=true)
 
